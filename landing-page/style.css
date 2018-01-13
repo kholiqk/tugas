@@ -1,0 +1,23 @@
+#header,#footer{
+  height: 70px;
+  background:#2D3E50;
+}
+#content{
+  height: 500px;
+  background: #18BD9B;
+}
+a.nav-link{
+  color:#18BD9B;
+}
+a.nav-link:hover{
+  color: white;
+  background: #18BD9B;
+}
+.btn-warna{
+  background: #2D3E50;
+  color: white;
+}
+.btn-warna:hover{
+  color: black;
+  background: white;
+}
